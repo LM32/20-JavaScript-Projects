@@ -1,1 +1,1 @@
-# 20-Javescript-Projects
+# 20-JavaScript-Projects
